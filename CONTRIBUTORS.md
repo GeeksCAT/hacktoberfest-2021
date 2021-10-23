@@ -7,3 +7,4 @@
 [Move searchbox to top even if no results or error](https://github.com/GeoVoluntarios/geosearch/pull/15)
 7. [@marc0s](https://github.com/marc0s): [Traduid iD](https://github.com/GeeksCAT/hacktoberfest-2021/issues/4#issuecomment-950162378)
 8. [@eudago](https://github.com/eudago) [fix cardFeed import](https://github.com/helpbuttons/hb-front/pull/66)
+9. [@mcmontseny](https://github.com/mcmontseny) [Change DarkMode Event + Add new person](https://github.com/fcoterroba/Funny_DNI_letter/pull/23)
