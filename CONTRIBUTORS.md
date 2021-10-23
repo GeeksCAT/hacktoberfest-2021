@@ -3,3 +3,4 @@
 3. [@jamalinu](https://github.com/jamalinu): [Traduir KeePassXC](https://user-images.githubusercontent.com/66197476/138552127-ae6b42db-1360-4eb6-bec8-c99e885567aa.png)
 4. [@xevib](https://github.com/xevib): [Millorar documentacio inforiesgo](https://github.com/GeoVoluntarios/geosearch/pull/14)
 5. [@cescmentationfolch](https://github.com/cescmentationfolch): [Afegir longitud com a paràmetre](https://github.com/JuanjoSalvador/dog/pull/37)
+6. [@ecarreras](https://github.com/ecarreras): [Afegir flag mail autogenerat](https://github.com/gisce/qreu/pull/43)
