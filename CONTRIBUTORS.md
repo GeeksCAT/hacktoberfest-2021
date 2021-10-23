@@ -5,3 +5,4 @@
 5. [@cescmentationfolch](https://github.com/cescmentationfolch): [Afegir longitud com a paràmetre](https://github.com/JuanjoSalvador/dog/pull/37)
 6. [@dukebody](https://github.com/dukebody): 
 [Move searchbox to top even if no results or error](https://github.com/GeoVoluntarios/geosearch/pull/15)
+7. [@marc0s](https://github.com/marc0s): [Traduid iD](https://github.com/GeeksCAT/hacktoberfest-2021/issues/4#issuecomment-950162378)
