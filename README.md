@@ -4,6 +4,8 @@ Fes una PR durant la 1a Festa OpenSource Girona, i guanya't un got metàl·lic p
 
 [Més info sobre l'esdeveniment](https://docs.google.com/presentation/d/1VTH0BMtMAm4can4-LwnIO4WsB3mjHY6cz2wLR4QHx9E)
 
+[Presentació del KickOff](https://docs.google.com/presentation/d/e/2PACX-1vTjKaLIfTUq1LgWjS_aAtvyr68mwwoQCqto2qqBkoEP5u7PdfTrOUePBkvP1Op0PNNp9SUoebTI3t7_/pub?start=false&loop=true&delayms=3000)
+
 ## Com participar?
 
 Escull el teu projecte, troba la issue que pots solucionar i prepara una PR.
