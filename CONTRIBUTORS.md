@@ -6,3 +6,4 @@
 6. [@dukebody](https://github.com/dukebody): 
 [Move searchbox to top even if no results or error](https://github.com/GeoVoluntarios/geosearch/pull/15)
 7. [@marc0s](https://github.com/marc0s): [Traduid iD](https://github.com/GeeksCAT/hacktoberfest-2021/issues/4#issuecomment-950162378)
+8. [@gerardparareda](https://github.com/gerardparareda/): [NEW Allow quotes from other sources ](https://github.com/fcoterroba/Advice_Me/pull/21)
