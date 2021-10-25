@@ -1,8 +1,8 @@
-name: code-analysis
+name: update-contributors
 on:
   push:
     branches:
-      - '*'
+      - master
 jobs:
   sonarcloud:
     name: Update Contributors section
