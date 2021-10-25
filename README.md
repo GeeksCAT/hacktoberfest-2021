@@ -21,7 +21,6 @@ p.e: [@XaviTorello](https://github.com/XaviTorello): [Add 2021 HF info](https://
 Per fer-ho, [editeu directament el fitxer de contribucions](https://github.com/GeeksCAT/hacktoberfest-2021/edit/master/CONTRIBUTORS.md) i afegiu la nova linia generant una nova PR. També podeu fer fork manualment, modificar el vostre fork i fer-nos la PR; el que vulgueu!
 
 
-
 ## Com col·laborar?
 
 La idea és que tothom surti d'aquí havent fet una PR a qualsevol projecte obert.
@@ -31,3 +30,6 @@ Si no teniu clar on/com col·laborar, qualsevol dels mentors estarem encantats d
 Podeu trobar algunes issues i projectes a les quals col·laborar revisant les [issues d'aquest projecte](https://github.com/GeeksCAT/hacktoberfest-2021/issues).
 
 També trobareu un bon grapat de projectes a [HacktoberfestES](https://hacktoberfestes.dev/). Pots veure de què va cada projecte i quines tecnologies fa servir directament a la pàgina, i trobareu les issues dins cada repo. També pots veure diversos videos d'introducció als projectes [aquí](https://youtu.be/lGSb_8XUNtM?t=993) i parlar amb les maintainers de cada projecte a [aquest server de Discord](https://discord.gg/pgtkJcqVN4).
+
+
+## Contributors
