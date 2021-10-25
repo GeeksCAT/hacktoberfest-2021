@@ -1,0 +1,19 @@
+name: update-contributors
+on:
+  push:
+    branches:
+      - master
+jobs:
+  sonarcloud:
+    name: Update Contributors section
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0  # Shallow clones should be disabled for a better relevancy of analysis
+      - name: List Contributors
+        uses: Maanuj-Vora/List-Contributors@1.0.3
+        with:
+          REPO_NAME: GeeksCAT/hacktoberfest-2021
+          CONTRIBUTOR: "## Contributors"
+          ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
