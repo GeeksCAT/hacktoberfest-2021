@@ -15,5 +15,5 @@ jobs:
         uses: Maanuj-Vora/List-Contributors@1.0.3
         with:
           REPO_NAME: GeeksCAT/hacktoberfest-2021
-          CONTRIBUTOR: "### Contributors"
+          CONTRIBUTOR: "## Contributors"
           ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
