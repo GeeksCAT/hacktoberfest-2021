@@ -11,3 +11,4 @@
 10. [@anebot](https://github.com/anebot/) [Update dogos.h. Add dog three](https://github.com/JuanjoSalvador/dog/pull/38)
 11. [@quimnuss](https://github.com/quimnuss) [Adds avatar upload of a custom avatar. Fixes #38. #48](https://github.com/guyver2/battlechess/pull/48)
 12. [@marc0s](https://github.com/marc0s): [Add coverage report to mix_unused](https://github.com/hauleth/mix_unused/pull/26)
+13. [@jbagot](https://github.com/jbagot) [Add docker in django-aula](https://github.com/ctrl-alt-d/django-aula/pull/172)
