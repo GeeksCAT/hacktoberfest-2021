@@ -10,3 +10,4 @@
 9. [@mcmontseny](https://github.com/mcmontseny) [Change DarkMode Event + Add new person](https://github.com/fcoterroba/Funny_DNI_letter/pull/23)
 10. [@anebot](https://github.com/anebot/) [Update dogos.h. Add dog three](https://github.com/JuanjoSalvador/dog/pull/38)
 11. [@quimnuss](https://github.com/quimnuss) [Adds avatar upload of a custom avatar. Fixes #38. #48](https://github.com/guyver2/battlechess/pull/48)
+12. [@jbagot](https://github.com/jbagot) [Add docker in django-aula](https://github.com/ctrl-alt-d/django-aula/pull/172)
