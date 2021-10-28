@@ -14,3 +14,4 @@
 13. [@jbagot](https://github.com/jbagot) [Add docker in django-aula](https://github.com/ctrl-alt-d/django-aula/pull/172)
 14. [@ecarreras](https://github.com/ecarreras): [Afegir flag mail autogenerat](https://github.com/gisce/qreu/pull/43)
 15. [@jbagot](https://github.com/jbagot) [Add case insensitive in recover password form](https://github.com/ctrl-alt-d/django-aula/pull/173)
+16. [@francescarpi](https://github.com/francescarpi) [Content added in the HF 2021 website](https://github.com/GeeksCAT/hacktoberfest-web-2021/pull/4)
