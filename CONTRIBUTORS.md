@@ -13,3 +13,4 @@
 12. [@marc0s](https://github.com/marc0s): [Add coverage report to mix_unused](https://github.com/hauleth/mix_unused/pull/26)
 13. [@jbagot](https://github.com/jbagot) [Add docker in django-aula](https://github.com/ctrl-alt-d/django-aula/pull/172)
 14. [@ecarreras](https://github.com/ecarreras): [Afegir flag mail autogenerat](https://github.com/gisce/qreu/pull/43)
+15. [@jbagot](https://github.com/jbagot) [Add case insensitive in recover password form](https://github.com/ctrl-alt-d/django-aula/pull/173)
