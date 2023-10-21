@@ -4,4 +4,5 @@
 1.[@githubuser](Nom complet): [Enllaç a la pull-request)(https://github.com/....)
 ```
 2. [@biels](Biel Simon): https://github.com/gironajs/gironajs.com/pull/31
-3. [@Carles-Piqueras](Carles Piqueras): https://github.com/gironajs/gironajs.com/pull/33
+3. [@dukebody](Isra): https://github.com/EnriqueSoria/python-api-consumer/pull/4
+4. [@Carles-Piqueras](Carles Piqueras): https://github.com/gironajs/gironajs.com/pull/33
